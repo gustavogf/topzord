@@ -1,0 +1,7 @@
+{
+  "name": "topzord",
+  "dependencies": {},
+  "devDependencies": {
+    "bulma": "^0.4.0"
+  }
+}
